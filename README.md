@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm <strong>Costa Victon!</strong></h1>
 
 <ul>
-    <li>🎓 <strong>Bachelor's Student in Information Technology</strong></li>
+    <li>🎓 <strong>Bachelor's Student in Information Technology.</strong></li>
     <li>💻 <strong>Passionate Software Developer</strong></li>
 </ul>
 
