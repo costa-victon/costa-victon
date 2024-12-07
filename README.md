@@ -1,46 +1,43 @@
-👋 Hi, I'm Costa Victon!
+<h1>👋 Hi, I'm <strong>Costa Victon!</strong></h1>
 
-🎓 Bachelor's Student in Information Technology
+<h2>🎓 <strong>Bachelor's Student in Information Technology</strong></h2>
 
-💻 Passionate Software Developer
+<h2>💻 <strong>Passionate Software Developer</strong></h2>
 
+<h2>🚀 <strong>About Me:</strong></h2>
 
-🚀 About Me:
+<ul>
+    <li>📘 Pursuing my bachelor's degree in Information Technology.</li>
+    <li>🌟 Avid learner and enthusiast of all things software development.</li>
+    <li>🔍 Always exploring new technologies and frameworks.</li>
+</ul>
 
-📘 Pursuing my bachelor's degree in Information Technology.
+<h2>💡 <strong>Skills & Interests:</strong></h2>
 
-🌟 Avid learner and enthusiast of all things software development.
+<ul>
+    <li>Programming Languages: <strong>Python, PHP, JavaScript</strong></li>
+    <li>Web Development: <strong>HTML, CSS, MySQL, Laravel, React</strong></li>
+    <li>Interests: <strong>Cybersecurity, Machine Learning, Full-Stack Development</strong></li>
+</ul>
 
-🔍 Always exploring new technologies and frameworks.
+<h2>📈 <strong>Current Goals:</strong></h2>
 
+<ul>
+    <li>🎯 Enhance my knowledge in cloud computing and DevOps.</li>
+    <li>📂 Work on impactful open-source projects.</li>
+    <li>📚 Continuously learn and grow as a developer.</li>
+</ul>
 
-💡 Skills & Interests:
+<h2>📬 <strong>Let's Connect!</strong></h2>
 
-Programming Languages: Python, PHP, JavaScript
+<ul>
+    <li>💼 LinkedIn</li>
+    <li>🐦 Twitter</li>
+    <li>📧 Email: costavicton@gmail.com</li>
+</ul>
 
-Web Development: HTML, CSS, MySQL, Laravel, React
+<h2>🌟 <strong>Fun Fact:</strong></h2>
 
-Interests: Cybersecurity, Machine Learning, Full-Stack Development
-
-
-📈 Current Goals:
-
-🎯 Enhance my knowledge in cloud computing and DevOps.
-
-📂 Work on impactful open-source projects.
-
-📚 Continuously learn and grow as a developer.
-
-
-📬 Let's Connect!
-
-💼 LinkedIn
-
-🐦 Twitter
-
-📧 Email: costavicton@gmail.com
-
-
-🌟 Fun Fact:
-
-Coding is not just my profession—it's my passion and a way to shape the future!
+<ul>
+    <li>Coding is not just my profession—it's my passion and a way to shape the future!</li>
+</ul>
