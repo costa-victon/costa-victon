@@ -1,8 +1,9 @@
 <h1>👋 Hi, I'm <strong>Costa Victon!</strong></h1>
 
-<h2>🎓 <strong>Bachelor's Student in Information Technology</strong></h2>
-
-<h2>💻 <strong>Passionate Software Developer</strong></h2>
+<ul>
+    <li>🎓 <strong>Bachelor's Student in Information Technology</strong></li>
+    <li>💻 <strong>Passionate Software Developer</strong></li>
+</ul>
 
 <h2>🚀 <strong>About Me:</strong></h2>
 
