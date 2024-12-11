@@ -17,7 +17,7 @@
 
 <ul>
     <li>Programming Languages: <strong>Python, PHP, JavaScript</strong></li>
-    <li>Web Development: <strong>HTML, CSS, MySQL, Laravel, React</strong></li>
+    <li>Web Development: <strong>HTML, CSS, MySQL</strong></li>
     <li>Interests: <strong>Cybersecurity, Machine Learning, Full-Stack Development</strong></li>
 </ul>
 
@@ -33,7 +33,7 @@
 
 <ul>
     <li>💼 LinkedIn: Costa Sanga</li>
-    <li>🐦 Twitter</li>
+    <li>🐦 Twitter: </li>
     <li>📧 Email: costavicton@gmail.com</li>
 </ul>
 
