@@ -1,44 +1,45 @@
 <h1>👋 Hi, I'm <strong>Costa Victon!</strong></h1>
 
 <ul>
-    <li>🎓 <strong>Bachelor's Student in Information Technology.</strong></li>
-    <li>💻 <strong>Passionate Software Developer</strong></li>
+    <li>🎓 <strong>Graduate in Information Technology</strong></li>
+    <li>💻 <strong>Full-Stack Developer | Building Scalable Systems</strong></li>
 </ul>
 
 <h2>🚀 <strong>About Me:</strong></h2>
 
 <ul>
-    <li>📘 Pursuing my bachelor's degree in Information Technology.</li>
-    <li>🌟 Avid learner and enthusiast of all things software development.</li>
-    <li>🔍 Always exploring new technologies and frameworks.</li>
+    <li>🎓 I hold a Bachelor's Degree in Information Technology.</li>
+    <li>💡 Passionate about building scalable and efficient web applications.</li>
+    <li>🔍 Continuously exploring modern technologies and best practices.</li>
+    <li>🚀 Focused on real-world problem solving through software.</li>
 </ul>
 
 <h2>💡 <strong>Skills & Interests:</strong></h2>
 
 <ul>
-    <li>Programming Languages: <strong>Python, PHP, JavaScript</strong></li>
-    <li>Web Development: <strong>HTML, CSS, MySQL</strong></li>
-    <li>Interests: <strong>Cybersecurity, Machine Learning, Full-Stack Development</strong></li>
+    <li>Programming Languages: <strong>PHP, JavaScript</strong></li>
+    <li>Web Development: <strong>React, Node.js, HTML, CSS, MySQL</strong></li>
+    <li>Other Skills: <strong>API Development, Authentication Systems, Database Design</strong></li>
+    <li>Interests: <strong>Python, Full-Stack Development, System Design, DevOps</strong></li>
 </ul>
 
-<h2>📈 <strong>Current Goals:</strong></h2>
+<h2>📈 <strong>Current Focus:</strong></h2>
 
 <ul>
-    <li>🎯 Enhance my knowledge in cloud computing and DevOps.</li>
-    <li>📂 Work on impactful open-source projects.</li>
-    <li>📚 Continuously learn and grow as a developer.</li>
+    <li>⚙️ Building scalable full-stack applications.</li>
+    <li>☁️ Learning Cloud Computing and DevOps practices.</li>
+    <li>📂 Contributing to real-world and open-source projects.</li>
 </ul>
 
 <h2>📬 <strong>Let's Connect!</strong></h2>
 
 <ul>
     <li>💼 LinkedIn: Costa Sanga</li>
-    <li>🐦 Twitter: </li>
     <li>📧 Email: costavicton@gmail.com</li>
 </ul>
 
 <h2>🌟 <strong>Fun Fact:</strong></h2>
 
 <ul>
-    <li>Coding is not just my profession—it's my passion and a way to shape the future!</li>
+    <li>💡 I enjoy turning complex problems into simple, scalable solutions.</li>
 </ul>
